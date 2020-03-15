@@ -1,0 +1,52 @@
+body{
+  font-family: 'Ubuntu', sans-serif;
+  margin-bottom: 30px;
+}
+.highlighted{
+  background-color: #eb759e;
+  padding: 5px;
+  border-radius: 3px;
+}
+.jumbotron{
+  background-color: #34495e;
+  color: #fff;
+  padding: 10px;
+}
+.jumbotron p{
+  margin-bottom: 35px;
+}
+.jumbotron2{
+  background-color: #eb759e;
+  padding: 10px;
+  margin-top: -30px;
+  text-align: center;
+}
+.jumbotron2 h3{
+  margin: 10px;
+  line-height: 1.25em;
+}
+.container2{
+  max-width: 600px;
+  text-align: center;
+  font-size: 1.2em;
+  margin: auto;
+  padding: 10px;   
+}
+.container2 .btn-lg{
+  width: 80%;
+  background-color: #eb759e;
+  border: none;
+}
+.thumbnail{
+  padding: 0;
+}
+.thumbnail .caption h3{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 19px;
+  font-weight: bold;
+}
+.thumbnail .caption{
+  padding: 15px;
+  padding-top: 10px;
+}
