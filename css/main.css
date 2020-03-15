@@ -3,7 +3,7 @@ body{
   margin-bottom: 30px;
 }
 .highlighted{
-  background-color: #eb759e;
+  background-color: #e74c3c;
   padding: 5px;
   border-radius: 3px;
 }
@@ -16,7 +16,7 @@ body{
   margin-bottom: 35px;
 }
 .jumbotron2{
-  background-color: #eb759e;
+  background-color: #e74c3c;
   padding: 10px;
   margin-top: -30px;
   text-align: center;
@@ -34,7 +34,7 @@ body{
 }
 .container2 .btn-lg{
   width: 80%;
-  background-color: #eb759e;
+  background-color: #e74c3c;
   border: none;
 }
 .thumbnail{
