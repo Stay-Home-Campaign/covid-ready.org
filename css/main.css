@@ -15,16 +15,6 @@ body{
 .jumbotron p{
   margin-bottom: 35px;
 }
-.jumbotron2{
-  background-color: #e74c3c;
-  padding: 10px;
-  margin-top: -30px;
-  text-align: center;
-}
-.jumbotron2 h3{
-  margin: 10px;
-  line-height: 1.25em;
-}
 .container2{
   max-width: 600px;
   text-align: center;
@@ -34,8 +24,8 @@ body{
 }
 .container2 .btn-lg{
   width: 80%;
-  background-color: #e74c3c;
   border: none;
+  margin-bottom: 10px;
 }
 .thumbnail{
   padding: 0;
@@ -52,10 +42,15 @@ body{
 }
 .tile{
   padding: 90px 40px 90px 40px;
-  text-align: center;
-  background-color: #e74c3c;
+  text-align: center;  
   color: white;
 }
 a:hover{
   text-decoration: none;
+}
+.table{
+  margin: 0;
+}
+.table *{
+  border: none !important;
 }
